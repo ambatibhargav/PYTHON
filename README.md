@@ -1,8 +1,8 @@
 # PYTHON
 
 Videos 
-*Code with Harry
--Telusko
+- Code with Harry
+- Telusko
 -Programming with Mosh
 -FreeCodeCamp.org
 -LearnCode.academy
